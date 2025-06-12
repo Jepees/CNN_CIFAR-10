@@ -57,9 +57,6 @@ Grad-CAM digunakan untuk melihat area fokus model ketika membuat prediksi. Hasil
 
 ---
 
-
----
-
 ## 🧪 Kesimpulan
 
 Melalui proyek ini, dapat disimpulkan bahwa **arsitektur CNN yang lebih sederhana dari AlexNet tetap dapat memberikan hasil lebih baik** jika menggunakan teknik seperti **Batch Normalization**, **Dropout**, dan penambahan kedalaman yang seimbang.
