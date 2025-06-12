@@ -1,4 +1,4 @@
-# 🔍 Perbandingan CNN Buatan dengan AlexNet pada Dataset CIFAR-10
+# 🔍 CNN Buatan vs AlexNet pada Dataset CIFAR-10
 
 Proyek ini bertujuan untuk **membandingkan performa arsitektur Convolutional Neural Network (CNN) buatan sendiri dengan AlexNet** dalam menyelesaikan tugas klasifikasi gambar menggunakan dataset **CIFAR-10**.
 
